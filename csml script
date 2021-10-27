@@ -5,7 +5,7 @@
       n = !1,
       s = !1;
   var a = e.getElementById("clevy-chatbox") || e.getElementById("ccx"),
-      c = a.src.split("token=")[1] || a.src.split("t=")[1];
+      c = y05bz087uq9dcsd37llbtpft6ultzhh6;
   var l = encodeURIComponent(decodeURIComponent(a.dataset.webappMetadata || "{}")),
       o = a.dataset.webappDebug,
       i = a.dataset.position,
