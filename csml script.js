@@ -10,8 +10,8 @@
       o = a.dataset.webappDebug,
       i = a.dataset.position,
       r = a.dataset.logoUrl,
-      d = "#FFBE00",
-      p = a.dataset.launcherBackground,
+      d = a.dataset.launcherFill,
+      p = "linear-gradient(139deg, #fcc34f, #ffa419 51%, #c78510)",
       h = "https://chat.csml.dev/channels/".concat(c, "?chatbox=true&metadata=").concat(l);
       
   function v(n) {
