@@ -1,7 +1,7 @@
 "use strict";
 
 !function (e) {
-  var t,
+  var t
       n = !1,
       s = !1;
   var a = e.getElementById("clevy-chatbox") || e.getElementById("ccx"),
