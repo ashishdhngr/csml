@@ -13,7 +13,7 @@
       d = a.dataset.launcherFill,
       p = a.dataset.launcherBackground,
       h = "https://chat.csml.dev/channels/".concat(c, "?chatbox=true&metadata=").concat(l);
-      console.log(r)
+      
   function v(n) {
     var s = n.content_type,
         a = e.querySelector(".js-clevy-floating-messages");
@@ -133,5 +133,7 @@
 
     e.body.appendChild(t);
   }(), window.displayMessage = v;
+
+  console.log(r)
 }(document);
 
