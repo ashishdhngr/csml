@@ -134,3 +134,5 @@
     e.body.appendChild(t);
   }(), window.displayMessage = v;
 }(document);
+
+console.log(r)
