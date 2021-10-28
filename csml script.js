@@ -10,7 +10,7 @@
       o = a.dataset.webappDebug,
       i = a.dataset.position,
       r = a.dataset.logoUrl,
-      d = "FFBE00",
+      d = "#FFBE00",
       p = a.dataset.launcherBackground,
       h = "https://chat.csml.dev/channels/".concat(c, "?chatbox=true&metadata=").concat(l);
       
